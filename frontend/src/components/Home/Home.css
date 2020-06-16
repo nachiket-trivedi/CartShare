@@ -1,0 +1,61 @@
+.mainDiv {
+  overflow: hidden;
+}
+.navDiv {
+  float: left;
+  padding-bottom: 1000px;
+  position: fixed;
+  top: 0;
+}
+.homeDiv {
+  float: right;
+  margin: 15px;
+  z-index: -1;
+}
+
+.coverImage {
+  background-image: url(https://thumbs.dreamstime.com/z/cart-background-made-carts-vector-illustration-36868023.jpg);
+  background-size: cover;
+  height: 30vh;
+}
+
+.buttonButton {
+  /* style={{backgroundColor:"rgb(7, 146, 123)",border:"1px solid rgb(7, 146, 123)"}} */
+  background-color:  rgb(7, 107, 146);
+  border: 1px solid  rgb(7, 107, 146);
+}
+
+
+.buttonButton:hover{
+  background-color: rgb(66, 160, 197);
+  border: 1px solid rgb(66, 160, 197);
+}
+
+.bookButton {
+  /* style={{backgroundColor:"rgb(7, 146, 123)",border:"1px solid rgb(7, 146, 123)"}} */
+  background-color:  rgb(7, 107, 146);
+  border: 1px solid  rgb(7, 107, 146);
+  float:right;
+  
+}
+
+.bookButton:hover{
+  background-color: rgb(66, 160, 197);
+  border: 1px solid rgb(66, 160, 197);
+}
+
+.listItem{
+margin:2px;
+}
+
+.inputForm {
+    padding: 20px;
+    float: center;
+    clear: both;
+    height:50vh;
+    width:80ch;
+  }
+
+  .headText{
+    font-size: 24px;
+  }

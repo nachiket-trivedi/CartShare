@@ -1,0 +1,103 @@
+
+    .fontColor{
+        color:  rgb(7, 107, 146);
+    }
+
+    .addForm {
+        overflow: hidden;
+        margin:5%;
+      }
+
+    .leftHome{
+        float: left;  
+        
+    }
+    .input {
+        padding: 20px;
+        float: center;
+        clear: both;
+      }
+    .password{
+        color : #BFC9CA ;
+        font-size: 14px;
+    }
+    .signup{
+        margin-top: 80px; 
+        padding: 60px;
+        float: center;
+        clear: both;
+    }
+    .font{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        margin-bottom: 40px 
+    }
+    .button{
+            border-radius: 100px;
+            box-shadow: none;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            line-height: 20px;
+            padding: 6px 16px;
+            position: relative;
+            text-align: center;
+            white-space: nowrap;
+            background-color: rgb(7, 107, 146);
+            border: 1px solid rgb(7, 107, 146);
+            color:white;
+    }
+    .buttonSubmit{
+        border-radius: 100px;
+        box-shadow: none;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 20px;
+        padding: 6px 16px;
+        position: relative;
+        text-align: center;
+        white-space: nowrap;
+        background-color: rgb(7, 107, 146);
+        border: 1px solid rgb(7, 107, 146);
+        color:white;
+}
+   
+.cancelButton {
+    /* style={{backgroundColor:"rgb(7, 146, 123)",border:"1px solid rgb(7, 146, 123)"}} */
+    background-color: rgb(218, 69, 69);
+    margin-left:1%;
+    border: 1px solid rgb(218, 69, 69);
+  }
+
+  .cancelButton:hover{
+    background-color: rgb(211, 118, 118);
+    border: 1px solid rgb(211,118, 118);
+  }
+  
+    .buttonButton2 {
+      margin-Right:2%;
+        background-color: rgb(7, 107, 146);
+        border: 1px solid rgb(7, 107, 146);
+        float:right;
+      }
+      
+      
+      .buttonButton2:hover{
+          background-color: rgb(66, 160, 197);
+          border: 1px solid rgb(66, 160, 197);
+      }
+
+   
+
+    .linkColor{
+        color:rgb(7, 107, 146);
+    }
+
+    .linkColor:visited{
+        color: rgb(16, 64, 83);
+    }
+
+    .linkColor:hover{
+        color: rgb(66, 160, 197);
+    }
+    

@@ -1,0 +1,91 @@
+
+    .fontColor{
+        color:  rgb(7, 107, 146);
+    }
+
+
+    .leftHome{
+        float: left;  
+    }
+
+    .rightHome{
+        float: right;  
+    }
+
+    .input {
+        padding: 20px;
+        float: center;
+        clear: both;
+      }
+    .password{
+        color : #BFC9CA ;
+        font-size: 14px;
+    }
+    .headLogin{
+        font-size:24px;
+        margin-bottom:8vh;
+    }
+    .buttonButton {
+        /* style={{backgroundColor:"rgb(7, 146, 123)",border:"1px solid rgb(7, 146, 123)"}} */
+        background-color: rgb(7, 107, 146);
+        border: 1px solid rgb(7, 107, 146);
+      }
+      
+      
+      .buttonButton:hover{
+          background-color: rgb(66, 160, 197);
+          border: 1px solid rgb(66, 160, 197);
+      }
+ 
+    .font{
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        margin-bottom: 40px 
+    }
+.marginTopButton{
+    margin-top:2vh;
+    margin-bottom:1vh;
+}
+    .imgbox {
+        display: grid;
+        width: 300%; 
+        float: left;
+        position: relative;
+        object-fit: fill;
+        margin:0px;
+    }
+    .left-fit {
+        /* max-width: 70ch; */
+        max-height: 100vh;
+        object-fit:cover;  
+        float: left;  
+        position: relative;
+    }
+
+    .whitebox{
+        margin-top:15vh;
+        padding-top:8vh;
+        background-color: #fff;
+        max-height: 100vh;
+        border-radius: 8px;
+    }
+
+    .bg{
+        height:100vh;
+        background-size: cover;
+        background-image:url(https://previews.123rf.com/images/nosua/nosua1702/nosua170200233/72605962-home-appliances-in-the-shopping-cart-e-commerce-or-online-shopping-concept-breack-background-3d-rend.jpg);
+        /* background-image: url(https://www.speedycars.gr/wp-content/uploads/2016/01/1280x720-data_images-out-28-990025-car-rental.png); */
+        /* background-image: url(https://www.smartertravel.com/uploads/2018/09/car-rental-at-mountains.jpg); */
+         }
+
+         .linkColor{
+            color:rgb(7, 107, 146);
+        }
+    
+        .linkColor:visited{
+            color: rgb(16, 64, 83);
+        }
+    
+        .linkColor:hover{
+            color: rgb(66, 160, 197);
+        }
+        

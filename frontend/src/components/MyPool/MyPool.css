@@ -1,0 +1,117 @@
+/* *{
+    align-content: center;
+    float: center;
+    } */
+.fontColor {
+  color: rgb(7, 107, 146);
+}
+
+.leftHome {
+  float: left;
+}
+.input {
+  padding: 20px;
+  float: center;
+  clear: both;
+}
+.password {
+  color: #bfc9ca;
+  font-size: 14px;
+}
+.signup {
+  margin-top: 80px;
+  padding: 60px;
+  float: center;
+  clear: both;
+}
+.font {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-bottom: 40px;
+}
+.button {
+  border-radius: 100px;
+  box-shadow: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  background-color: rgb(7, 107, 146);
+  border: 1px solid rgb(7, 107, 146);
+  color: white;
+}
+.buttonSubmit {
+  border-radius: 100px;
+  box-shadow: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  background-color: rgb(7, 107, 146);
+  border: 1px solid rgb(7, 107, 146);
+  color: white;
+}
+.bgimg {
+  height: 100vh;
+  background-size: cover;
+  background-image: url(https://thumbs.dreamstime.com/z/line-shopping-carts-6012652.jpg);
+  /* background-image: url(https://www.speedycars.gr/wp-content/uploads/2016/01/1280x720-data_images-out-28-990025-car-rental.png); */
+  /* background-image: url(https://www.smartertravel.com/uploads/2018/09/car-rental-at-mountains.jpg); */
+  /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiPuio6iOFqNwTr-CCrSmUwwteCfqqRVp9RlWEV0x121gHw_VU&usqp=CAU); */
+  /* background-image: url(https://lh6.googleusercontent.com/proxy/57XjI85u4uy95gTIh9Yii47mst7ttt0tjjMQpegqnKhnwuIthEk7S8k2oQXj-nILJjmhtrKHYVz4v5ekzoAKvOyr3DcDPTPO0CTsxZl1enFU82t67gQ4vgA); */
+}
+
+.tabClass {
+  margin: 2vh;
+}
+
+.buttonButton {
+  /* style={{backgroundColor:"rgb(7, 146, 123)",border:"1px solid rgb(7, 146, 123)"}} */
+  background-color: rgb(7, 107, 146);
+  border: 1px solid rgb(7, 107, 146);
+}
+
+.buttonButton:hover {
+  background-color: rgb(66, 160, 197);
+  border: 1px solid rgb(66, 160, 197);
+}
+
+.tabss {
+  background-color: rgb(7, 107, 146);
+  width: 50%;
+  border-radius: 5px;
+  color: white;
+  font-weight: 10px;
+}
+
+.tabss:hover {
+  background-color: rgb(66, 160, 197);
+}
+
+.tabss:focus {
+  background-color: rgb(16, 64, 83);
+  outline: none;
+}
+
+.linkColor {
+  color: rgb(7, 107, 146);
+}
+
+.linkColor:visited {
+  color: rgb(16, 64, 83);
+}
+
+.linkColor:hover {
+  color: rgb(66, 160, 197);
+}
+
+.label {
+  margin-left: 4px;
+}
